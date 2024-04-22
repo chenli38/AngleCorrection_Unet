@@ -7,6 +7,8 @@ A small test dataset is provided and free to download: https://doi.org/10.6084/m
 pytorch, torchvision, matplotlib, numpy, random, skimage, scipy 
 
 Most of the training scripts are inherited from https://github.com/chenli38/Defocus_classification.git  
+## Angular and focus correction pipeline 
+<img src="images/Figure1.png" width="458" height="712">  
 
 ## Function of scipts
 **main.py**: 
