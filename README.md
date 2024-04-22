@@ -22,9 +22,16 @@ Most of the training scripts are inherited from https://github.com/chenli38/Defo
 
 **generate_mask.py**
  - input: image directory
- - output: binary images depends on the threshold.
-   
+ - output: binary images based on the threshold.
 
+**test_angle_file/.m**
+ - predict the defocus distance of titled image dataset using Unet (testUnet.m), CNN (testPaper1.m), DCTS (testDCTS.m)
+ - calculate the angle test_angle_Unet_yaw.m and test_angle_Unet_roll.m anc compared with ground truth. 
+
+**label_angle_matlabfile**
+ - a angle labelling tool developed by MATLAB appdesigner to help calcualte the roll and yaw angle of titled images
+
+   
 ## Contact
 cli38@ncsu.edu
 
