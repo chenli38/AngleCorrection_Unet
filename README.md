@@ -6,6 +6,23 @@ A small test dataset is provided and free to download: https://doi.org/10.6084/m
 ## Required packages
 pytorch, torchvision, matplotlib, numpy, random, skimage, scipy 
 
+Most of the training scripts are inherited from https://github.com/chenli38/Defocus_classification.git  
+
+## Function of scipts
+**main.py**: 
+ - loading dataset, network model and hyperparameters setting, training
+
+**model.py**: 
+ - define the Unet model structure
+
+**utils.py**
+ - generate the color bar (-36m to 36um for different color)
+
+**generate_mask.py**
+ - input: image directory
+ - output: binary images depends on the threshold.
+   
+
 ## Contact
 cli38@ncsu.edu
 
