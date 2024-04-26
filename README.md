@@ -33,7 +33,7 @@ Most of the training scripts are inherited from https://github.com/chenli38/Defo
 
    
 ## Contact
-cli38@ncsu.edu
+cli38@ncsu.edu, ischen.li235@gmail.com
 
 ## References
 - Li, Chen, et al. "Deep learning-based autofocus method enhances image quality in light-sheet fluorescence microscopy." Biomedical Optics Express 12.8 (2021): 5214-5226.
