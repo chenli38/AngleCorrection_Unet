@@ -10,7 +10,7 @@ Most of the training scripts are inherited from https://github.com/chenli38/Defo
 ## Angular and focus correction pipeline 
 <img src="images/Figure1.png" width="458" height="712">  
 
-## Function of scipts
+## Function of scripts
 **main.py**: 
  - loading dataset, network model and hyperparameters setting, training
 
